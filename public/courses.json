@@ -1,0 +1,65 @@
+[
+  {
+    "cover_img": "https://i.ibb.co/KKmrTf1/Rectangle-2-2.png",
+    "course_title": "Introduction to C Programming",
+    "course_description": "Learn the basics of HTML, CSS, and JavaScript to kickstart your journey into web development.",
+    "price": 19.99,
+    "credit": 2
+  },
+  {
+    "cover_img": "https://i.ibb.co/mhS3YgZ/Rectangle-2-3.png",
+    "course_title": "Introduction to Algorithms",
+    "course_description": "Master Python programming from the ground up and build real-world applications.",
+    "price": 29.99,
+    "credit": 4
+  },
+  {
+    "cover_img": "https://i.ibb.co/0FTtLqT/Rectangle-2-4.png",
+    "course_title": "Introduction to C++ for DSA",
+    "course_description": "Explore the world of digital marketing, from SEO to social media strategies.",
+    "price": 24.99,
+    "credit": 3
+  },
+  {
+    "cover_img": "https://i.ibb.co/rpgMVGg/Rectangle-3.png",
+    "course_title": "Data Science Essentials",
+    "course_description": "Dive into data science with hands-on projects and learn to extract valuable insights.",
+    "price": 39.99,
+    "credit": 5
+  },
+  {
+    "cover_img": "https://i.ibb.co/p0D03Rq/Rectangle-2.png",
+    "course_title": "Introduction to OOP Python",
+    "course_description": "Unlock your creativity and learn the basics of graphic design using popular tools.",
+    "price": 22.99,
+    "credit": 10
+  },
+  {
+    "cover_img": "https://i.ibb.co/8bJRK0C/Rectangle-2-5.png",
+    "course_title": "Software Engineering",
+    "course_description": "Build cross-platform mobile apps using React Native and enhance your development skills.",
+    "price": 34.99,
+    "credit": 4
+  },
+  {
+    "cover_img": "https://i.ibb.co/f49xF0t/Rectangle-3-1.png",
+    "course_title": "AWS, Cloud Computing",
+    "course_description": "Understand the fundamentals of cybersecurity and protect yourself from online threats.",
+    "price": 27.99,
+    "credit": 13
+  },
+  {
+    "cover_img": "https://i.ibb.co/C1n5sxX/Rectangle-2-1.png",
+    "course_title": "Database (MySQL)",
+    "course_description": "Capture stunning photos by mastering the basics of photography and composition.",
+    "price": 26.99,
+    "credit": 3
+  },
+  {
+    "cover_img": "https://i.ibb.co/NFSHvy8/Rectangle-2-6.png",
+    "course_title": "Problem-Solving Part",
+    "course_description": "Explore the fascinating world of AI and understand its applications in various fields.",
+    "price": 31.99,
+    "credit": 4
+  }
+]
