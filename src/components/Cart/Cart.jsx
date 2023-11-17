@@ -1,7 +1,10 @@
-const Cart = () => {
+const Cart = ({ cart }) => {
+  const { course_title } = cart;
   return (
-    <div className="w-1/3">
-      <h2>Cart</h2>
+    <div>
+      <ol className="list-item">
+        <li>{course_title}</li>
+      </ol>
     </div>
   );
 };

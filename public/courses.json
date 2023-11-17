@@ -35,9 +35,9 @@
     "id": 5,
     "cover_img": "https://i.ibb.co/p0D03Rq/Rectangle-2.png",
     "course_title": "Introduction to OOP Python",
-    "course_description": "Unlock your creativity and learn the basics of graphic design using popular tools.",
+    "course_description": "Unlock your creativity and learn the basics of graphic design.",
     "price": 22.99,
-    "credit": 10
+    "credit": 9
   },
   {
     "id": 6,
