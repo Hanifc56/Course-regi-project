@@ -1,3 +1,5 @@
+import PropTypes from "prop-types";
+
 const Cart = ({ cart }) => {
   const { course_title } = cart;
   return (
@@ -8,5 +10,7 @@ const Cart = ({ cart }) => {
     </div>
   );
 };
-
+Cart.propTypes = {
+  cart: PropTypes.object,
+};
 export default Cart;

@@ -17,7 +17,7 @@ const Course = ({ course, handleCourse }) => {
           <RiMoneyDollarCircleLine />
         </span>
         <span className="font-medium text-base text-[#1C1B1B99] pl-4">
-          Price: {price}{" "}
+          Price: {price}
         </span>
       </div>
       <div className="flex items-center mt-2">
@@ -25,11 +25,11 @@ const Course = ({ course, handleCourse }) => {
           <IoBookOutline />
         </span>
         <span className="font-medium text-base text-[#1C1B1B99] pl-4">
-          Credit: {credit} hr{" "}
+          Credit: {credit}
         </span>
       </div>
       <button
-        onClick={() => handleCourse(course, id, price)}
+        onClick={() => handleCourse(course, id, price, credit)}
         className="mx-2 px-20  mt-6 text-center py-3 bg-[#2F80ED] rounded-lg font-semibold text-lg text-white"
       >
         Select
