@@ -25,7 +25,7 @@ const Course = ({ course, handleCourse }) => {
           <IoBookOutline />
         </span>
         <span className="font-medium text-base text-[#1C1B1B99] pl-4">
-          Credit: {credit}
+          Credit: {credit} hr
         </span>
       </div>
       <button
