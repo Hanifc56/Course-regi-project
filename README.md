@@ -1,8 +1,17 @@
-# React + Vite
+# In This Project:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 3 Project features:
 
-Currently, two official plugins are available:
+=> This Page Can Show Your Credits For Course
+=> This Pages shows Your Enrolled Courses
+=> This page can filter same name ans show once in the page
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# How I Managed The State In My Assignment Project:
+
+1\* For state I decleared one primary state to hold all the data form the josn called Courses and store them into carts state.
+
+2\* Then For remaing credit, for credit and money i decleared 3 more state to hold each indivisual data and the use them later conditionally to fulfil my assingment requrements and conditions.
+
+3\* That's how i maneged All the state in my Assignment. Thanks...
+
+# Live Site Link :

@@ -15,8 +15,8 @@ function App() {
   const handleCourse = (course, credit, price) => {
     console.log(...carts);
 
-    const isExist = carts.find((cart) => cart.id == course.id);
-    if (isExist) {
+    const duplicateNameFilter = carts.find((cart) => cart.id == course.id);
+    if (duplicateNameFilter) {
       swal("This course already in cart!!!");
     } else {
       setCart([...carts, course]);
